@@ -26,9 +26,12 @@
   2.
   3.
 - Fork와 Clone의 차이를 내 말로 설명하기:
+- 이번 주 소감:
 ```
 
 > ⚠️ 다른 사람의 파일은 수정하지 말고 **본인 파일만** 새로 만드세요.
+>
+> 💬 **이번 주 소감**에는 수업을 듣고 느낀 점, 어려웠던 점, 궁금한 점을 자유롭게 한두 문장으로 적어 주세요.
 
 ---
 
@@ -62,7 +65,7 @@ git push origin week01-hong
 - [ ] `hgeniee/git-mentoring` 저장소를 Fork 했다
 - [ ] 내 저장소(`MY-ID/git-mentoring`)를 Clone 하고 upstream을 등록했다
 - [ ] `week01-이름` 브랜치에서 작업했다
-- [ ] `week01/members/본인이름.md` 를 작성하고 commit 했다
+- [ ] `week01/members/본인이름.md` 를 작성하고(이번 주 소감 포함) commit 했다
 - [ ] 커밋 메시지 규칙(`타입: 내용`)을 지켰다
 - [ ] 내 저장소(origin)로 push 했다
 - [ ] 원본 저장소로 Pull Request를 생성했다
