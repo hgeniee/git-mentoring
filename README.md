@@ -21,6 +21,7 @@
 | 2주차 | Git 설치 및 실습 환경 구성 | [week02](./week02/README.md) |
 | 3주차 | Git 기본 명령어 (init, add, commit) | [week03](./week03/README.md) |
 | 4주차 | 원격 저장소 연결 (remote, push, pull) | [week04](./week04/README.md) |
+| 5주차 | 브랜치와 병합 (branch, switch, merge, 충돌 해결) | [week05](./week05/README.md) |
 
 > 새 주차 과제가 올라오면 이 표에 추가됩니다. 내 컴퓨터에 새 폴더가 안 보이면 [최신 내용 받기](#1-최신-내용-받기)를 먼저 하세요.
 
