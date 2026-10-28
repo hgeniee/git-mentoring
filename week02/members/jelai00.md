@@ -10,11 +10,11 @@
 
 \- `git config --global --list` 로 확인한 설정:
 
-&#x20; - user.name:jelai00
+\-user.name:jelai00
 
-&#x20; - user.email 등록 여부: O
+\-user.email 등록 여부: O
 
-&#x20; - init.defaultbranch: main
+\- init.defaultbranch: main
 
 \- 실습 폴더에서 `git init` 후 `git status` 첫 줄: On branch main
 
