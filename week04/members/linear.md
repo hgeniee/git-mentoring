@@ -16,4 +16,4 @@
 - git-mentoring의 origin 과 upstream 은 각각 어디를 가리키는지: origin 은 내가 Fork한 내 저장소(linearmik/git-mentoring), upstream 은 튜터의 원본 저장소(hgeniee/git-mentoring)를 가리킨다. 나는 원본에 직접 push할 수 없어서 origin 에 push하고, 최신 과제는 upstream 에서 pull 받는다.
 - git push -u origin main 에서 -u 를 붙이는 이유: 내 main 과 origin/main 을 짝지어 두려고. 한 번 해 두면 다음부터는 git push, git pull 만 쳐도 되고, git status 가 "GitHub보다 커밋이 몇 개 앞서 있는지"도 알려 준다.
 - git pull 이 하는 일: 원격 저장소의 새 커밋을 받아와서 내 브랜치에 합친다. 실습 5에서 웹으로 고친 줄이 git pull 후에 내 hello.md 에 생겼다.
-- 이번 주 소감: 3주 동안 내 컴퓨터에만 있던 커밋이 GitHub에 올라가는 순간이에요. 매주 따라 치던 git pull upstream main 이 무슨 뜻이었는지 이제 보일 거예요!
+- 이번 주 소감: 터미널에서 `code` 명령어가 안 먹혀서 살짝 식겁했지만 결국 꿋꿋이 헤쳐나갔다! 3주 동안 로컬에만 꽁꽁 숨어 있던 커밋들을 드디어 GitHub 원격 저장소로 시원하게 날려 보내고 sync를 맞추니까 속이 다 시원하다. 앞으로 push랑 pull은 절대 안 까먹을 것 같다.
