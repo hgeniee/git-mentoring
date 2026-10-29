@@ -1,0 +1,5 @@
+# GitHub Pages 사이트 설정 (10주차 수료 활동용)
+# 저장소 Settings → Pages 에서 main / (root) 로 켜면 https://hgeniee.github.io/git-mentoring/ 에 공개됩니다.
+title: Git & GitHub 멘토링
+description: Fork → Pull Request로 함께 배운 10주의 기록
+theme: jekyll-theme-cayman
