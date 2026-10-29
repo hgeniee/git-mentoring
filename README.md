@@ -23,6 +23,10 @@
 | 4주차 | 원격 저장소 연결 (remote, push, pull) | [week04](./week04/README.md) |
 | 5주차 | 브랜치와 병합 (branch, switch, merge, 충돌 해결) | [week05](./week05/README.md) |
 | 6주차 | GitHub 협업 (Issue, 코드 리뷰, 리뷰 반영) | [week06](./week06/README.md) |
+| 7주차 | 되돌리기와 기록 관리 (.gitignore, amend, revert) | [week07](./week07/README.md) |
+| 8주차 | 협업 시뮬레이션 (push 거절, fetch, pull 충돌 해결) | [week08](./week08/README.md) |
+| 9주차 | Markdown과 GitHub 프로필 꾸미기 | [week09](./week09/README.md) |
+| 10주차 | 🎓 수료 활동: 우리들의 Git 졸업 앨범 만들기 (GitHub Pages) | [week10](./week10/README.md) |
 
 > 새 주차 과제가 올라오면 이 표에 추가됩니다. 내 컴퓨터에 새 폴더가 안 보이면 [최신 내용 받기](#1-최신-내용-받기)를 먼저 하세요.
 
