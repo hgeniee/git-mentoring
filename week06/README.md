@@ -69,15 +69,14 @@ git push origin week06-hong            # 기존 PR에 커밋이 자동으로 추
 
 ## 👥 리뷰 짝꿍
 
-아래 표의 **리뷰할 사람**의 6주차 PR을 리뷰해 주세요. (A → B → C → D → E → A 순서로 돌아가며 리뷰)
+아래 표의 **리뷰할 사람**의 6주차 PR을 리뷰해 주세요. (A → B → C → D → A 순서로 돌아가며 리뷰)
 
 | 나 | 리뷰할 사람 |
 |---|---|
 | @jelai00 | @linearmik |
 | @linearmik | @gseyeon74 |
 | @gseyeon74 | @seeunparkdev |
-| @seeunparkdev | @oseoooojin |
-| @oseoooojin | @jelai00 |
+| @seeunparkdev | @jelai00 |
 
 > 💡 짝꿍의 PR이 아직 안 올라왔다면 먼저 내 PR부터 보내 두고, 짝꿍 PR이 올라오면 리뷰하세요.
 > 짝꿍이 늦어진다면 **Issues** 탭에 남겨 주세요. 튜터가 다른 짝꿍을 연결해 드립니다.
